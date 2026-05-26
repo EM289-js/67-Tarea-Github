@@ -1,0 +1,34 @@
+Buenas!
+La tarea consiste en trabajar sobre un proyecto colaborativo utilizando Git y GitHub Desktop. Cada integrante del grupo deberá completar los siguientes pasos:
+
+-El/La lider del equipo deberá crear un repositorio de GitHub y agregar a sus compañeros/as como colabordadores
+-Cada colabordador deberá crear una rama individual para trabajar. (El nombre de la rama debe ser el nombre de el/la estudiante correspondiente).
+-Organizar el grupo y definir quién será:
+    Jugador1
+    Jugador2
+    Jugador3
+    Jugador4
+
+-Cada integrante deberá ingresar a su archivo correspondiente y escribir tres frases:
+    *Dos de esas frases deben ser verdaderas
+    *Una sola frase debe ser falsa
+-Una vez hecho todo lo anterior, cada jugador debe crear una carpeta llamada privado.
+    Dentro de la carpeta privado necesitan crear un archivo llamado respuesta.txt
+    Ingresar dentro del archivo creado: cuales son las frases verdaderas y cual es la frase falsa
+-Una vez realizados los cambios:
+    Hacer commit y hacer push
+    Finalmente hacer un merge con la rama principal
+
+
+#Analizar que ocurrió con los los archivos modificados y con el archivo respuesta.txt#
+    *Por qué no se subieron las respuestas
+    *Por qué no hubo conflictos
+
+
+-Cuando TODOS los integrantes hayan terminado sus tareas, continuar con la siguiente actividad:
+    Cada jugador debe volver a trabajar a su rama y actualizar dicha rama con los datos nuevos que tiene el main/master
+    Revisar los archivos creados por sus compañeros/as y en el archivo notas.txt, escribir por cada jugador: cuál de sus frases creen que son falsas.
+
+-Hacer commit y hacer push al repositorio remoto
+    
+    #Notar la cantidad de CONFLICTOS que se generan en esta parte
